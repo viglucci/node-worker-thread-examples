@@ -1,0 +1,1 @@
+Example of using the `node-worker-threads-pool` module to manage a pool of worker threads and distribute a workload over them that computes Fibonacci for "large" numbers.

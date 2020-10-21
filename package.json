@@ -1,0 +1,25 @@
+{
+  "name": "node-worker-thread-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viglucci/node-worker-thread-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viglucci/node-worker-thread-examples/issues"
+  },
+  "homepage": "https://github.com/viglucci/node-worker-thread-examples#readme",
+  "dependencies": {
+    "fs-jetpack": "^3.2.0",
+    "ms": "^2.1.2",
+    "node-worker-threads-pool": "^1.4.2"
+  }
+}
